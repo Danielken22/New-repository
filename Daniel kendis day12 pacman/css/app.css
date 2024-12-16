@@ -1,0 +1,40 @@
+body {
+    background-color: black;
+	text-align: center;
+	color: lightgray;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+table {
+	margin: 100px auto;
+	border: 1px solid lightgray;
+}
+
+.cell {
+	width: 40px;
+	height: 40px;
+	font-size: 1.5em;
+}
+img {
+	width: 25px;
+}
+.title{
+	width: 400px;
+	height: auto;
+}
+.modal{
+	/* display: none; */
+	position: fixed;
+	height: 5px;
+	text-align: center;
+	background-color: blue;
+	color: yellow;
+}
+.hide{
+	display: none;
+}
+.modal1{
+display: none;
+background-color: blue;
+color: yellow;
+}
